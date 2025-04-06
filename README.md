@@ -2,7 +2,6 @@
 
 🎓 I’m a 6th-semester Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS) | 
 🔧 Passionate in Laravel & React.js development | 
-🌱 Always learning |
 
 ## 💻 Tech Stack
 - **Frontend**: React JS, HTML, CSS, JavaScript
