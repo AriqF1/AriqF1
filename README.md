@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Ariq Farhan Althaf!
 
-<!--
-**AriqF1/AriqF1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a 6th-semester Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS), passionate about web development and building creative solutions with code.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- **Frontend**: React JS, HTML, CSS, JavaScript
+- **Backend**: Laravel, PHP, REST API
+- **Database**: MySQL
+- **Tools**: Git, GitHub, Postman, Figma
+  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my profile! Let's build something amazing together 🚀
