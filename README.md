@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AriqF1&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AriqF1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=AriqF1&theme=onedark&no-frame=true&column=4&margin-w=2&row=2&no-bg=true" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=AriqF1&theme=onedark&no-frame=true&column=4&margin-w=2&row=1&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
 ###
