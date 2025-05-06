@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ariq Farhan Althaf<br>🎓 I’m a 6th-semester Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS) | 🔧 Passionate in Laravel & React.js development</h2>
+<h2 align="center">Hi 👋! My name is Ariq Farhan Althaf<br>🎓 I’m a 6th-semester Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS) | 🔧 Passionate in Laravel & React.js development.</h2>
 
 ###
 
