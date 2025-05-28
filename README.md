@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ariq Farhan Althaf
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=25&pause=1000&color=F7F7F7&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ariq+Farhan+Althaf;Welcome+To+My+GitHub+Profile+%F0%9F%99%8C)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ariqfarhan-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:farhanariq.dev@gmail.com)
