@@ -65,10 +65,12 @@
   <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/AriqF1/AriqF1/output/pacman-contribution-graph.svg">
 </picture>
 
-## Let's Connect
+## 🤝 Let's Connect!
 
-I'm always open to collaborating on projects and innovative ideas. Feel free to reach out if you're looking for a developer or just want to connect!
+I'm always excited to collaborate on meaningful tech projects, contribute to open-source, or just chat about web development, startups, or career tips.  
+Feel free to reach out!
 
+> _"Build with passion. Code with purpose."_ 🚀 From 👨🏻[Ariq Farhan](https://github.com/AriqF1)
 ---
 
-⭐️ From [AriqF1](https://github.com/AriqF1)
+
