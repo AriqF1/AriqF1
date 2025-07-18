@@ -6,10 +6,11 @@
 
 ## About Me
 
-🎓 I'm currently a 6th-semester student majoring in **Informatics Engineering** at **Universitas Dian Nuswantoro (UDINUS)**.  
-💻 I'm passionate about **full-stack web development**, with strong experience in **Laravel** and **React.js**.  
-🌱 I love learning new technologies, exploring best practices, and building useful real-world projects.  
-⚙️ I'm also interested in system design, deployment pipelines, and scalable backend architecture.
+- 🎓 Informatics Engineering Student | Universitas Dian Nuswantoro (UDINUS)
+- 💡 Passionate Full-Stack Web Developer
+- 🌱 Constantly exploring new technologies and best practices to build scalable, maintainable, and real-world solutions
+- 🚀 Enthusiastic about system design, deployment pipelines, and backend architecture
+- 📚 Always learning, always growing — committed to becoming a better developer every day
 
 ## GitHub Stats
 
