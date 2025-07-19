@@ -60,17 +60,6 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" height="35" /> GitHub Analytics Dashboard
-
-<div align="center">
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api?username=AriqF1&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&hide_title=true" alt="Ariq Farhan github stats" /> 
-  <img width="49%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqF1&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&hide_title=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriqF1&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="Ariq Farhan streak stats"/>
-</div>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="35" height="35" /> Contribution Activity
 
 <div align="center">
@@ -82,10 +71,10 @@
 <div align="center">
 
 ### 🤝 I'm Always Open To:
-- 💼 **Freelance Projects** - Let's bring your ideas to life
-- 🌟 **Collaborations** - Building innovative solutions together  
-- 📚 **Knowledge Sharing** - Learning and teaching in the community
-- 💡 **Tech Discussions** - Exploring new technologies and trends
+💼 **Freelance Projects** - Let's bring your ideas to life |
+🌟 **Collaborations** - Building innovative solutions together | 
+📚 **Knowledge Sharing** - Learning and teaching in the community |
+💡 **Tech Discussions** - Exploring new technologies and trends 
 
 <br>
 
