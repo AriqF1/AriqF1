@@ -13,14 +13,13 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="👨‍💻" width="50" height="50" /> Who Am I?
-
-<img align="right" alt="Coding gif" height="200" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
 - 🎓 Informatics Engineering Student | Universitas Dian Nuswantoro (UDINUS)
 - 💡 Passionate Full-Stack Web Developer
 - 🌱 Constantly exploring new technologies and best practices to build scalable, maintainable, and real-world solutions
 - 🚀 Enthusiastic about system design, deployment pipelines, and backend architecture
 - 📚 Always learning, always growing — committed to becoming a better developer every day
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" height="35" /> My Tech Toolbox
 
