@@ -78,8 +78,8 @@ const ariq = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AriqF1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqF1&layout=compact&hide_title=true&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AriqF1&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqF1&layout=compact&hide_title=true&langs_count=8&theme=tokyonight&hide_border=true"/>
 </div>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AriqF1&theme=tokyo-night&hide_title=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
