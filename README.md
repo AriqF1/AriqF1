@@ -23,9 +23,8 @@ const ariq = {
     location: "Semarang, Indonesia 🇮🇩",
     education: "Informatics Engineering - UDINUS ",
     role: "Full-Stack Developer",
-    interests: ["Web Development", "System Design", "Open Source"],
+    interests: ["Web Development", "Software Engineer", "Open Source"],
     currentFocus: "Building scalable web applications with Laravel & React",
-    funFact: "I debug with console.log and I'm proud of it! 😄"
 };
 ```
 
