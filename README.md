@@ -40,7 +40,7 @@ const ariq = {
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AriqF1&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Ariq's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqF1&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" alt="Most Used Languages" />
+  <img width="49%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriqF1&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 <div align="center">
