@@ -39,11 +39,11 @@ const ariq = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AriqF1&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Ariq's GitHub Stats" />
+  <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api?username=AriqF1&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&count_private=true" alt="Ariq's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=AriqF1&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="GitHub Streak" />
+  <img width="100%" height="100%" src="https://streak-stats.demolab.com?user=AriqF1&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="GitHub Streak" />
 </div>
 
 ---
