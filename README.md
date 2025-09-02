@@ -18,7 +18,7 @@
 ## 🧑‍💻 About Me
 
 ```typescript
-const ariq = {
+const about = {
     name: "Ariq Farhan Althaf",
     location: "Semarang, Indonesia 🇮🇩",
     education: "Informatics Engineering - UDINUS ",
